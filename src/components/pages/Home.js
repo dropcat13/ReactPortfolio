@@ -1,9 +1,10 @@
 import React from "react";
-import Hero from "../components/Hero";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
-import Navtabs from "../pages/Navtabs";
+import Hero from "../Hero";
+import Container from "../Container";
+import Row from "../Row";
+import Col from "../Col";
+import Navtabs from "./Navtabs";
+import "../style.css";
 
 function Home() {
   return (

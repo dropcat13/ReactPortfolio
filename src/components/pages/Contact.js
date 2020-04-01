@@ -1,9 +1,10 @@
 import React from "react";
-import React from "react";
-import Hero from "../components/Hero";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Hero from "../Hero";
+import Navtabs from "./Navtabs";
+import Container from "../Container";
+import Row from "../Row";
+import Col from "../Col";
+import "../style.css";
 
 function Contact() {
   return (

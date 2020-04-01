@@ -5,8 +5,8 @@ function Hero(props) {
   return (
     <div className="hero text-center">
       {props.children}
-      <h2>Employee Directory</h2>
-      <h4>Click on carrots to filter by heading or use search box to narrow your results</h4>
+      <h2>Catherine Kretzschmar</h2>
+      <h3>{}</h3>
     </div>
   );
 }
