@@ -7,7 +7,7 @@ import Contact from "./components/pages/Contact";
 
 function App() {
   return (
-    <Router>
+    <Router basename={"/ReactPortfolio"}>
       <div>
         <NavTabs />
         <Route exact path="/" component={Home} />

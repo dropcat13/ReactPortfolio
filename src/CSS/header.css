@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+    border-bottom: 4px solid #777777;
+}
+
+.navbar{
+    width: 100%; 
+    background-color: #ffffff;
+}
+
+#catname{
+    background-color:  #4aaaa5;
+    padding: 20px;
+    color: #ffffff;
+    justify-self: flex-start;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+}
