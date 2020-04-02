@@ -1,5 +1,5 @@
 #submit{
-  background-color: #4aaaa5;
+  background-color: #E67300;
   color: #ffffff;
 }
 
@@ -23,7 +23,7 @@ footer{
   background-color: #666666;
   margin: 0;
   padding: 10px;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #E67300;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -44,10 +44,11 @@ footer{
 }
 
 .catName{
-  background-color:  #4aaaa5;
+  background-color:  #E67300;
   padding: 20px;
   color: #ffffff;
-  
+  display: flex;
+  justify-content: left;
 }
 
 #navbarNav{
@@ -67,7 +68,7 @@ body{
 }
 
 h3, h4{
-  color:  #4aaaa5;
+  color:  #E67300;
   border-bottom: 3px solid #777777;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
@@ -78,7 +79,7 @@ h4 {
 }
 
 .titles{
-  background-color:  #4aaaa5;
+  background-color:  #E67300;
   color: #ffffff;
   padding: 20px;
   width: 300px;
