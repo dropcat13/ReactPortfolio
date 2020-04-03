@@ -1,0 +1,62 @@
+[
+  {
+    "link": "https://dropcat13.github.io/homework3-passwordgen/index.html",
+    "img": "./images/passwordGen.jpg",
+    "heading": "Password Generator",
+    "github": "https://github.com/dropcat13/homework3-passwordgen"
+  },
+  {
+    "link": "https://dropcat13.github.io/homework4-codequiz/",
+    "img": "./images/quiz.jpg",
+    "heading": "Code Quiz",
+    "github": "https://github.com/dropcat13/homework4-codequiz"
+  },
+  {
+    "link": "https://dropcat13.github.io/homework5-dayplanner/",
+    "img": "./images/planner.jpeg",
+    "heading": "Dayplanner",
+    "github": "https://github.com/dropcat13/homework5-dayplanner"
+  },
+  {
+    "link": " https://dropcat13.github.io/homework6-weatherDashboard/",
+    "img": "./images/weather.jpeg",
+    "heading": "Weather Dashboard",
+    "github": "https://github.com/dropcat13/homework6-weatherDashboard"
+  },
+  {
+    "link": "deploy me",
+    "img": "./images/notes.jpeg",
+    "heading": "Express Notetaker",
+    "github": "https://github.com/dropcat13/homework11-noteTaker"
+  },
+  {
+    "link": "deploy me",
+    "img": "./images/burger.jpeg",
+    "heading": "Eat-Da-Burger",
+    "github": "https://github.com/dropcat13/homework13-nodeExpressHandlebars"
+  },
+  {
+    "link": "https://dropcat13.github.io/homework19-employeeDirectory",
+    "img": "./images/companyDirectory.jpeg",
+    "heading": "Employee Directory",
+    "github": "https://github.com/dropcat13/homework19-employeeDirectory"
+  },
+  {
+    "link": "deploy me",
+    "img": "./images/fitnessTracker.jpg",
+    "heading": "Fitness Tracker",
+    "github": "https://github.com/dropcat13/homework17-fitnessTracker"
+  },
+  {
+    "link": "coming soon",
+    "img": "./images/books.jpeg",
+    "heading": "Google Books React Search - coming soon!",
+    "github": "https://github.com/dropcat13/homework21-googleBooksReactSearch"
+  },
+  {
+    "link": "deploy me",
+    "img": "./images/starWars.jpeg",
+    "heading": "Star Wars",
+    "github": "https://github.com/dropcat13/starWars"
+  }
+]

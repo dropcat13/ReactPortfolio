@@ -16,9 +16,11 @@ function Home() {
         </Row>
         <Row>
           <Col size="md-4">
-            <img src={process.env.PUBLIC_URL + "/images/CatPhoto.jpg"} alt="Catherine" width="400" height="350"></img>
+            <img id="catPhoto" src={process.env.PUBLIC_URL + "/images/CatPhoto.jpg"} alt="Catherine" width="400" height="350"></img>
           </Col>
-          <Col size="md-8">
+          <Col size="md-2">
+          </Col>
+          <Col size="md-6">
               <p id="bio">My name is Catherine, friends and family call me Cat, but never Cathy! I come from Norwich, Norfolk, UK which is about 2 hours east of London (in the bumpy bit on the right hand side). It's a really nice place with Medieval and Norman buildings. The surrounding area is very flat and very rural, but has lots of beaches. I studied bassoon and baroque bassoon at the Royal Northern College of Music and then spent some time working as a freelance bassoonist and teaching. Now I live in the USA because of my husband's job moving us here. I'm still teaching music but I'm ready to try something new!</p>
           </Col>
         </Row>
