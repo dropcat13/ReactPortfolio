@@ -30,7 +30,7 @@ footer{
   width: 100%;
 }
 
-.wrapper{
+.wrapper {
   display: flex;
   font-family: 'Georgia', Times, 'Times New Roman', serif;
   color: #777777;
@@ -40,7 +40,8 @@ footer{
 .hero{
   width: 100%; 
   background-color: #ffffff;
-  padding: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .catName{
@@ -56,7 +57,7 @@ footer{
 }
 
 body{ 
-  background: url(../assets/images/greek-vase.png) no-repeat center center fixed;
+  background: url(/ReactPortfolio/images/greek-vase.png) no-repeat center center fixed;
   background-repeat: repeat;
 }
 

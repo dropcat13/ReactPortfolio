@@ -8,7 +8,6 @@ import "../style.css";
 function Contact() {
   return (
     <div>
-      <Hero />
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
