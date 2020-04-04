@@ -102,3 +102,7 @@ h4 {
 #bio, #catPhoto {
   padding: 30px;
 }
+
+.card {
+  margin: 20px;
+}
