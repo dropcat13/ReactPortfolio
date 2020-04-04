@@ -16,10 +16,8 @@ function Portfolio() {
           </Col>
         </Row>
         <Row>
-          {/* <Col size="md-4"> */}
           {content.map(project1 => ( <Card key={project1.name} link={project1.link}
           img={project1.img} heading={project1.heading} github={project1.github}/>))}
-          {/* </Col> */}
         </Row>
         <Row>
           <h4>Group Projects</h4>
