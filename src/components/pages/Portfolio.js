@@ -36,8 +36,8 @@ function Portfolio() {
         <Row>
           <Col size="md-6">
             <Link
-              to="/CLIPage.js"
-              className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+              to="/clipage"
+              className={location.pathname === "/clipage" ? "nav-link active" : "nav-link"}>
               <img src={process.env.PUBLIC_URL +"/images/cli.jpg"}  alt="CLI" width="300" height="300"></img>
               <h3 class="titles">CLI Projects</h3>
             </Link>

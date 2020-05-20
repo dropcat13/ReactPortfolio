@@ -1,0 +1,17 @@
+[
+    {
+        "img": "./images/Hiking.jpg",
+        "heading": "Employee Tracker",
+        "github": "https://github.com/dropcat13/employeeTracker"
+    },
+    {
+        "img": "./images/fairytaleaudio.png",
+        "heading": "Developer Profile Generator",
+        "github": "https://github.com/dropcat13/developerProfileGenerator"
+    },
+    {
+        "img": "./images/pub-background.jpg",
+        "heading": "Team Generator",
+        "github": "https://github.com/dropcat13/teamProfileGenerator"
+    }
+]
