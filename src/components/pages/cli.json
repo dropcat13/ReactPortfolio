@@ -1,16 +1,16 @@
 [
     {
-        "img": "./images/Hiking.jpg",
+        "img": "./images/Homework12Gif.gif",
         "heading": "Employee Tracker",
         "github": "https://github.com/dropcat13/employeeTracker"
     },
     {
-        "img": "./images/fairytaleaudio.png",
+        "img": "./images/ironicbadger.png",
         "heading": "Developer Profile Generator",
         "github": "https://github.com/dropcat13/developerProfileGenerator"
     },
     {
-        "img": "./images/pub-background.jpg",
+        "img": "./images/teamGeneratorImage.png",
         "heading": "Team Generator",
         "github": "https://github.com/dropcat13/teamProfileGenerator"
     }
