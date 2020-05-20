@@ -5,8 +5,12 @@ import Col from "../Col";
 import Card from "../Card";
 import "../style.css";
 import content from "./content.json";
+import group from "./group.json";
+import { Link, useLocation } from "react-router-dom";
 
 function Portfolio() {
+  const location = useLocation();
+
   return (
     <div>
       <Container style={{ marginTop: 30 }}>
@@ -23,26 +27,20 @@ function Portfolio() {
           <h4>Group Projects</h4>
         </Row>  
         <Row>
-            <Col size="md-6">
-                  <a href="https://sjmarsnc.github.io/Project-What-To-Do/" target="_blank" rel="noopener noreferrer"></a>
-                  <img src={process.env.PUBLIC_URL +"/images/Hiking.jpg"}  alt="Hiking" width="300" height="300"></img>
-                  <h3 class="titles">Traliz - Get out and about!</h3>
-            </Col>
-            <Col size="md-6">
-                  <a href=" https://fairytale-audio-tours.herokuapp.com/" target="_blank" rel="noopener noreferrer"></a>
-                  <img src={process.env.PUBLIC_URL +"/images/fairytaleaudio.png"} alt="Cell Phone" width="300" height="300"></img>
-                  <h3 class="titles">FairyTale Audio Tours</h3>
-            </Col>
+        {group.map(project1 => ( <Card key={project1.name} link={project1.link}
+          img={project1.img} heading={project1.heading} github={project1.github}/>))} 
         </Row>                    
         <Row>
           <h4>Command Line Projects</h4>
         </Row>  
         <Row>
           <Col size="md-6">
-            {/* Make this a proper link to a react CLI page */}
-            <a href="CLIProjects.html" target="_blank" rel="noopener noreferrer"></a>
-            <img src={process.env.PUBLIC_URL +"/images/cli.jpg"}  alt="CLI" width="300" height="300"></img>
-            <h3 class="titles">CLI Projects</h3>
+            <Link
+              to="/CLIPage.js"
+              className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+              <img src={process.env.PUBLIC_URL +"/images/cli.jpg"}  alt="CLI" width="300" height="300"></img>
+              <h3 class="titles">CLI Projects</h3>
+            </Link>
           </Col>
         </Row>       
       </Container>
