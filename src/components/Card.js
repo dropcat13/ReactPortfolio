@@ -13,7 +13,7 @@ function Card(props) {
     <p className="moreDetails">More Details</p>
     {isShown && (
       <div>
-       <a href={props.github} target="_blank" rel="noopener noreferrer">Link to the github repo</a>
+       <a href={props.github} target="_blank" rel="noopener noreferrer">See the github repo</a>
        <br></br>
        <p className="orangeText">Overview:</p>
        <p className="cardText">{props.overview}</p>

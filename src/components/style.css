@@ -74,15 +74,16 @@ body{
   padding: 20px;
 }
 
-h3, h4{
+h3, h4, h5 {
   color:  #E67300;
   border-bottom: 3px solid #777777;
   font-family: 'Ubuntu', sans-serif, serif;
 }
 
-h4 {
-  padding: 10px;
+h4, h5 {
+  padding: 0px;
   margin-left: 15px;
+  border-bottom: none;
 }
 
 .titles{
@@ -131,4 +132,16 @@ h4 {
   padding-top: 10px;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+a {
+  color: #E67300;
+}
+
+a:hover, a:focus {
+  color: #777777;
+}
+
+ul {
+  padding-top: 10px;
 }

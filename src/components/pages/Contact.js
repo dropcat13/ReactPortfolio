@@ -11,7 +11,7 @@ function Contact() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h3>Contact</h3> 
+            <h3>Contact Me</h3> 
           </Col>
         </Row>
         <br />

@@ -23,6 +23,23 @@ function Home() {
               <p id="bio">My name is Catherine, friends and family call me Cat, but never Cathy! I come from Norwich, Norfolk, UK which is about 2 hours east of London (in the bumpy bit on the right hand side). It's a really nice place with Medieval and Norman buildings. The surrounding area is very flat and very rural, but has lots of beaches. I studied bassoon and baroque bassoon at the Royal Northern College of Music and then spent some time working as a freelance bassoonist and teaching. Now I live in the USA because of my husband's job moving us here. I'm still teaching music but I'm ready to try something new!</p>
           </Col>
         </Row>
+        <Row>
+          <Col size="md-12">
+            <h3>Technologies and skills</h3>
+          </Col>
+        </Row>
+        <Row>
+          <ul>
+            <li>React</li>
+            <li>HTML5 and ES6</li>
+            <li>CSS3</li>
+            <li>Javascript and JQuery</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MySQL and sequelize</li>
+            <li>MongoDB and Mongoose</li>
+          </ul>
+        </Row>
       </Container>
     </div>
   );
