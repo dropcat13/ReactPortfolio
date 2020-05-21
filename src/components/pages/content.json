@@ -13,39 +13,25 @@
     "heading": "Dayplanner",
     "github": "https://github.com/dropcat13/homework5-dayplanner",
     "overview": "Organise your workday into 1hour sections color-coded by past, present and future",
-    "tech": "JQuery, 3rd party API's, bootstrap"
+    "tech": "JQuery, Moment API, bootstrap"
   },
-  {
-    "link": "https://dropcat13.github.io/employeeDirectory/",
-    "img": "./images/companyDirectory.jpeg",
-    "heading": "Employee Directory",
-    "github": "https://github.com/dropcat13/homework19-employeeDirectory",
-    "overview": "View a (fictional) employee database, sort by name or use a fuzzy search to find an employee",
-    "tech": "React, 3rd Party API"
-  },
-  {
-    "link": "https://eat-da-burger-homework-13.herokuapp.com/",
-    "img": "./images/burger.jpeg",
-    "heading": "Eat-Da-Burger",
-    "github": "https://github.com/dropcat13/homework13-nodeExpressHandlebars",
-    "overview": "Create your own burger and consume it!",
-    "tech": "Node, Express, Handlebars"
-  },
+
+  
   {
     "link": "https://dropcat13.github.io/passwordgenerator/",
     "img": "./images/passwordGen.jpg",
     "heading": "Password Generator",
     "github": "https://github.com/dropcat13/homework3-passwordgen",
-    "overview": "overview here",
-    "tech": "tech used here"
+    "overview": "Random password Generator with copy to clipboard feature",
+    "tech": "Javascript, Bootstrap"
   },
   {
     "link": "https://dropcat13.github.io/codequiz/",
     "img": "./images/quiz.jpg",
     "heading": "Code Quiz",
     "github": "https://github.com/dropcat13/homework4-codequiz",
-    "overview": "overview here",
-    "tech": "tech used here"
+    "overview": "Answer coding questions against the clock!",
+    "tech": "Javascript, Bootstrap"
   },
   {
     "link": "https://dropcat13.github.io/weatherDashboard/",
@@ -53,7 +39,7 @@
     "heading": "Weather Dashboard",
     "github": "https://github.com/dropcat13/homework6-weatherDashboard",
     "overview": "Check the weather anywhere in the world",
-    "tech": "tech used here"
+    "tech": "JQuery, Moment API, openweathermap API, Bootstrap"
   },
   {
     "link": "https://cats-express-notetaker.herokuapp.com",
@@ -70,13 +56,5 @@
     "github": "https://github.com/dropcat13/homework17-fitnessTracker",
     "overview": "overview here",
     "tech": "tech used here"
-  },
-  {
-    "link": "https://dropcat13.github.io/starWars/",
-    "img": "./images/starWars.jpeg",
-    "heading": "Star Wars",
-    "github": "https://github.com/dropcat13/starWars",
-    "overview": "overview here",
-    "tech": "tech used here"
   }
-]
+]  

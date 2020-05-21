@@ -1,20 +1,26 @@
 [
     {
-        "link": "https://sjmarsnc.github.io/Project-What-To-Do/",
-        "img": "./images/Hiking.jpg",
-        "heading": "Traliz - Get out and about!",
-        "github": "https://github.com/sjmarsnc/Project-What-To-Do"
+        "link": "https://pub-trivia.herokuapp.com/",
+        "img": "./images/pub-background.jpg",
+        "heading": "Pub Trivia",
+        "github": "https://github.com/pub-trivia/trivia-app",
+        "overview": "overview here",
+        "tech": "tech used here"
     },
     {
         "link": "https://fairytale-audio-tours.herokuapp.com/",
         "img": "./images/fairytaleaudio.png",
         "heading": "FairyTale Audio Tours",
-        "github": "https://github.com/tour-guide/tour-guide-web"
+        "github": "https://github.com/tour-guide/tour-guide-web",
+        "overview": "overview here",
+        "tech": "tech used here"
     },
     {
-        "link": "",
-        "img": "./images/pub-background.jpg",
-        "heading": "Pub Trivia",
-        "github": "https://github.com/pub-trivia/trivia-app"
+        "link": "https://sjmarsnc.github.io/Project-What-To-Do/",
+        "img": "./images/Hiking.jpg",
+        "heading": "Traliz - Get out and about!",
+        "github": "https://github.com/sjmarsnc/Project-What-To-Do",
+        "overview": "overview here",
+        "tech": "tech used here"
     }
 ]

@@ -1,0 +1,27 @@
+[
+    {
+        "link": "https://dropcat13.github.io/starWars/",
+        "img": "./images/starWars.jpeg",
+        "heading": "Star Wars",
+        "github": "https://github.com/dropcat13/starWars",
+        "overview": "overview here",
+        "tech": "tech used here"
+      },
+      {
+        "link": "https://dropcat13.github.io/employeeDirectory/",
+        "img": "./images/companyDirectory.jpeg",
+        "heading": "Employee Directory",
+        "github": "https://github.com/dropcat13/homework19-employeeDirectory",
+        "overview": "View a (fictional) employee database, sort by name or use a fuzzy search to find an employee",
+        "tech": "React, 3rd Party API"
+      },
+      {
+        "link": "https://eat-da-burger-homework-13.herokuapp.com/",
+        "img": "./images/burger.jpeg",
+        "heading": "Eat-Da-Burger",
+        "github": "https://github.com/dropcat13/homework13-nodeExpressHandlebars",
+        "overview": "Create your own burger and consume it!",
+        "tech": "Node, Express, Handlebars"
+      }
+    
+]

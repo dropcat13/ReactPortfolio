@@ -2,16 +2,22 @@
     {
         "img": "./images/Homework12Gif.gif",
         "heading": "Employee Tracker",
-        "github": "https://github.com/dropcat13/employeeTracker"
+        "github": "https://github.com/dropcat13/employeeTracker",
+        "overview": "overview here",
+        "tech": "tech used here"
     },
     {
         "img": "./images/ironicbadger.png",
         "heading": "Developer Profile Generator",
-        "github": "https://github.com/dropcat13/developerProfileGenerator"
+        "github": "https://github.com/dropcat13/developerProfileGenerator",
+        "overview": "overview here",
+        "tech": "tech used here"
     },
     {
         "img": "./images/teamGeneratorImage.png",
         "heading": "Team Generator",
-        "github": "https://github.com/dropcat13/teamProfileGenerator"
+        "github": "https://github.com/dropcat13/teamProfileGenerator",
+        "overview": "overview here",
+        "tech": "tech used here"
     }
 ]
