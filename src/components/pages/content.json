@@ -3,60 +3,80 @@
     "link": "https://floating-island-11911.herokuapp.com/",
     "img": "./images/books.jpeg",
     "heading": "Google Books Search",
-    "github": "https://github.com/dropcat13/homework21-googleBooksReactSearch"
+    "github": "https://github.com/dropcat13/homework21-googleBooksReactSearch",
+    "overview": "Search for any book on Google books, then add it to your saved books page or find out more about the book with a link to the google book page",
+    "tech": "React"
   },
   {
     "link": "https://dropcat13.github.io/dayplanner/",
     "img": "./images/planner.jpeg",
     "heading": "Dayplanner",
-    "github": "https://github.com/dropcat13/homework5-dayplanner"
-  },
-  {
-    "link": "https://dropcat13.github.io/passwordgenerator/",
-    "img": "./images/passwordGen.jpg",
-    "heading": "Password Generator",
-    "github": "https://github.com/dropcat13/homework3-passwordgen"
-  },
-  {
-    "link": "https://dropcat13.github.io/codequiz/",
-    "img": "./images/quiz.jpg",
-    "heading": "Code Quiz",
-    "github": "https://github.com/dropcat13/homework4-codequiz"
-  },
-  {
-    "link": "https://dropcat13.github.io/weatherDashboard/",
-    "img": "./images/weather.jpeg",
-    "heading": "Weather Dashboard",
-    "github": "https://github.com/dropcat13/homework6-weatherDashboard"
-  },
-  {
-    "link": "https://cats-express-notetaker.herokuapp.com",
-    "img": "./images/notes.jpeg",
-    "heading": "Express Notetaker",
-    "github": "https://github.com/dropcat13/homework11-noteTaker"
-  },
-  {
-    "link": "https://eat-da-burger-homework-13.herokuapp.com/",
-    "img": "./images/burger.jpeg",
-    "heading": "Eat-Da-Burger",
-    "github": "https://github.com/dropcat13/homework13-nodeExpressHandlebars"
+    "github": "https://github.com/dropcat13/homework5-dayplanner",
+    "overview": "Organise your workday into 1hour sections color-coded by past, present and future",
+    "tech": "JQuery, 3rd party API's, bootstrap"
   },
   {
     "link": "https://dropcat13.github.io/employeeDirectory/",
     "img": "./images/companyDirectory.jpeg",
     "heading": "Employee Directory",
-    "github": "https://github.com/dropcat13/homework19-employeeDirectory"
+    "github": "https://github.com/dropcat13/homework19-employeeDirectory",
+    "overview": "View a (fictional) employee database, sort by name or use a fuzzy search to find an employee",
+    "tech": "React, 3rd Party API"
+  },
+  {
+    "link": "https://eat-da-burger-homework-13.herokuapp.com/",
+    "img": "./images/burger.jpeg",
+    "heading": "Eat-Da-Burger",
+    "github": "https://github.com/dropcat13/homework13-nodeExpressHandlebars",
+    "overview": "Create your own burger and consume it!",
+    "tech": "Node, Express, Handlebars"
+  },
+  {
+    "link": "https://dropcat13.github.io/passwordgenerator/",
+    "img": "./images/passwordGen.jpg",
+    "heading": "Password Generator",
+    "github": "https://github.com/dropcat13/homework3-passwordgen",
+    "overview": "overview here",
+    "tech": "tech used here"
+  },
+  {
+    "link": "https://dropcat13.github.io/codequiz/",
+    "img": "./images/quiz.jpg",
+    "heading": "Code Quiz",
+    "github": "https://github.com/dropcat13/homework4-codequiz",
+    "overview": "overview here",
+    "tech": "tech used here"
+  },
+  {
+    "link": "https://dropcat13.github.io/weatherDashboard/",
+    "img": "./images/weather.jpeg",
+    "heading": "Weather Dashboard",
+    "github": "https://github.com/dropcat13/homework6-weatherDashboard",
+    "overview": "Check the weather anywhere in the world",
+    "tech": "tech used here"
+  },
+  {
+    "link": "https://cats-express-notetaker.herokuapp.com",
+    "img": "./images/notes.jpeg",
+    "heading": "Express Notetaker",
+    "github": "https://github.com/dropcat13/homework11-noteTaker",
+    "overview": "overview here",
+    "tech": "tech used here"
   },
   {
     "link": "https://tranquil-atoll-18690.herokuapp.com/",
     "img": "./images/fitnessTracker.jpg",
     "heading": "Fitness Tracker",
-    "github": "https://github.com/dropcat13/homework17-fitnessTracker"
+    "github": "https://github.com/dropcat13/homework17-fitnessTracker",
+    "overview": "overview here",
+    "tech": "tech used here"
   },
   {
     "link": "https://dropcat13.github.io/starWars/",
     "img": "./images/starWars.jpeg",
     "heading": "Star Wars",
-    "github": "https://github.com/dropcat13/starWars"
+    "github": "https://github.com/dropcat13/starWars",
+    "overview": "overview here",
+    "tech": "tech used here"
   }
 ]
