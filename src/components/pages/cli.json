@@ -3,21 +3,21 @@
         "img": "./images/Homework12Gif.gif",
         "heading": "Employee Tracker",
         "github": "https://github.com/dropcat13/employeeTracker",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "View, add or update the departments, roles and employees in your company from the comand line",
+        "tech": "Node.js with inquirer package, MySQL"
     },
     {
         "img": "./images/ironicbadger.png",
         "heading": "Developer Profile Generator",
         "github": "https://github.com/dropcat13/developerProfileGenerator",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "Generate up to date information about team members in an easy to read pdf format",
+        "tech": "Node.js with inquirer and axios packages, HTML, CSS, bootstrap, javascript, JQuery, GitHub API"
     },
     {
         "img": "./images/teamGeneratorImage.png",
         "heading": "Team Generator",
         "github": "https://github.com/dropcat13/teamProfileGenerator",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "Generate webpages that display a teams basic info so you can access emails and GitHub profiles",
+        "tech": "Node.js with inquirer and axios packages, HTML, CSS, bootstrap, javascript, JQuery, GitHub API"
     }
 ]
