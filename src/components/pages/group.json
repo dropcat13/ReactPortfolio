@@ -4,23 +4,23 @@
         "img": "./images/pub-background.jpg",
         "heading": "Pub Trivia",
         "github": "https://github.com/pub-trivia/trivia-app",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "Play a synchronous trivia game with family or friends. Signup to trakc stats or create your own questions. Text or share an invite code to invite others to play with you!",
+        "tech": "React, Express, MySQL, sequelize, socket.io, Twillio, Heroku"
     },
     {
         "link": "https://fairytale-audio-tours.herokuapp.com/",
         "img": "./images/fairytaleaudio.png",
         "heading": "FairyTale Audio Tours",
         "github": "https://github.com/tour-guide/tour-guide-web",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "Listen to history, geography or family lore narrated by a member of the community. Login to create audio tours and share your thoughts and ideas with others",
+        "tech": "JQuery, MySQL, sequelize, Express, Heroku, node.js"
     },
     {
         "link": "https://sjmarsnc.github.io/Project-What-To-Do/",
         "img": "./images/Hiking.jpg",
         "heading": "Traliz - Get out and about!",
         "github": "https://github.com/sjmarsnc/Project-What-To-Do",
-        "overview": "overview here",
-        "tech": "tech used here"
+        "overview": "Get out and about! Hiking, biking or camping NC has it all. Use our website to find trails, or camping spots near you anywhere in the state. Save them to your favorites to access them again and again",
+        "tech": "3rd party API, bulma, javascript, Heroku"
     }
 ]

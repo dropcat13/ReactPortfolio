@@ -49,6 +49,9 @@ function Contact() {
             <textarea id="message" name="message" placeholder="Write something.."></textarea>
           </Col>
         </Row>
+        <Row>
+          <button>Submit</button>
+        </Row>
       </Container>
     </div>
   );

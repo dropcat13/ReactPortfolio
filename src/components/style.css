@@ -86,6 +86,17 @@ h4, h5 {
   border-bottom: none;
 }
 
+button {
+  background-color:  #E67300;
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif, serif;
+  border: 0;
+}
+
+button:hover, button:focus {
+  color: #777777;
+}
+
 .titles{
   background-color:  #E67300;
   color: #ffffff;

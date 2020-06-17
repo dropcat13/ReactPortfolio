@@ -9,8 +9,11 @@ function Hero(props) {
             <h2 className="catName">Catherine Kretzschmar</h2>
         </div>
         <div className="col-md-6">
+            <img src="../public/linkedIn.png" alt="linked in thumbnail"></img>
             <h5>https://www.linkedin.com/in/catherinekretzschmar/</h5>
+            <img src="../public/linkedIn.png" alt="github thumbnail"></img>
             <h5>https://github.com/dropcat13</h5>
+            <img src="../../public/email-icon" alt="email thumbnail"></img>
             <h5>cat.ktz@gmail.com</h5>
         </div>
       </div>
